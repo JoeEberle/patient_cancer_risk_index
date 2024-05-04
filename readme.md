@@ -1,12 +1,12 @@
 
-# Patient Cancer Risk Index - Analyzing each patients risk for developing cancer within next year.
-Analyzing each patients risk for developing cancer within next year.
+# Patient Cancer Risk Index - Solution for calculating  patients lieklihood to develop cancer within the next year. 
+Solution for calculating  patients lieklihood to develop cancer within the next year. 
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Patient Cancer Risk Index** - an example for your projects
 
-Analyzing each patients risk for developing cancer within next year.
+Solution for calculating  patients lieklihood to develop cancer within the next year. 
 
 ![Image image_filename](sample.png)
 
@@ -38,4 +38,4 @@ To get started with the **Patient Cancer Risk Index** solution repository, follo
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](patient_cancer_risk_index.png)  <br>
+    ## Deliverables or Figures![additional_image](patient_cancer_risk_index.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
