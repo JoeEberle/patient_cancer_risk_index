@@ -48,5 +48,5 @@ To get started with the **Patient Cancer Risk Index** solution repository, follo
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](patient_cancer_risk_index.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](patient_cancer_risk_index.png)  <br>
     
