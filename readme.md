@@ -2,7 +2,7 @@
     
 # Patient Cancer Risk Index 
 
-## nan
+## patient_cancer_risk_index
 
     
 ![Solution](code.png)
@@ -25,7 +25,7 @@
 
 Welcome to the solution **Patient Cancer Risk Index** - an example for your projects
 
-nan
+patient_cancer_risk_index
 
 ![Solution](code.png)
 
