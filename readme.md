@@ -2,7 +2,7 @@
     
 # Patient Cancer Risk Index 
 
-## Solution for calculating  patients lieklihood to develop cancer within the next year. 
+## patient_cancer_risk_index
 
     
 ![Solution](code.png)
@@ -11,7 +11,7 @@
 
 Welcome to the solution **Patient Cancer Risk Index** - an example for your projects
 
-Solution for calculating  patients lieklihood to develop cancer within the next year. 
+patient_cancer_risk_index
 
 ![Solution](code.png)
 
@@ -50,14 +50,4 @@ To get started with the **Patient Cancer Risk Index** solution repository, follo
 - ✅ **Low Code or  No Code** Designed to minimize complexity — most full solutions are under 50 lines of code.
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
-    
-## List of Figures
- ![additional_image](patient_cancer_risk_index.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
