@@ -2,7 +2,7 @@
     
 # Patient Cancer Risk Index 
 
-## Solution for calculating  patients lieklihood to develop cancer within the next year. 
+## patient_cancer_risk_index
 
     
 ![Solution](code.png)
@@ -11,7 +11,7 @@
 
 Welcome to the solution **Patient Cancer Risk Index** - an example for your projects
 
-Solution for calculating  patients lieklihood to develop cancer within the next year. 
+patient_cancer_risk_index
 
 ![Solution](code.png)
 
