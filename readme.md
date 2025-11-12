@@ -4,21 +4,11 @@
 
 ## patient_cancer_risk_index
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Patient Cancer Risk Index** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Patient Cancer Risk Index** 
 
 patient_cancer_risk_index
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
