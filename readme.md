@@ -2,12 +2,12 @@
     
 # Patient Cancer Risk Index 
 
-## patient_cancer_risk_index
+## Solution for calculating  patients lieklihood to develop cancer within the next year. 
 
     ![Image image_filename](code.png)
 Welcome to the solution **Patient Cancer Risk Index** 
 
-patient_cancer_risk_index
+Solution for calculating  patients lieklihood to develop cancer within the next year. 
 ![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
